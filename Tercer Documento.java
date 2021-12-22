@@ -30,6 +30,10 @@ public class Documento {
 		return "Documento [tipoDocumento=" + tipoDocumento + ", numeroDocumento=" + numeroDocumento + "]";
 	}
 	
+	public static void main(String[] args) {
+		System.out.println("HolaMundo");
+		}
+	
 	
 	
 	
